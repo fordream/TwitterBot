@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # 3F_Jakarta bot
 require 'rubygems'
 require 'twitter'
